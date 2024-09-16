@@ -1,6 +1,7 @@
 - Hi, my name is Pierce Batman.
-- I'm interested in becoming an app developer and currently getting my professional Front-End Developer certification by Meta.
-- On top of that certication, I am studying for a Bachelor's of Science in Computer Science at the University of Wisconsin-Madison.
+- I just recently graduated from UW-Madison with a Bachelors of Science degree in Information Science
+- I have a minor in Computer Science and a Cyber Security certificate from Google
+- 
 - I would love to collaborate or bounce ideas off of anyone that is interested.
 - Send me an email at pbatman@wisc.edu!
 - LinkedIn: https://www.linkedin/in/piercebatman
